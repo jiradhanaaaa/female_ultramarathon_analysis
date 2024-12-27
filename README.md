@@ -18,9 +18,8 @@ The analysis focuses on identifying the most common age categories, the countrie
 ## Techniques Used  
 
 ### 1. Data Acquisition  
-- Dataset sourced from [Kaggle](https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running/discussion/420633).  
-- Followed the tutorial by [Data Science Made Simple](https://www.youtube.com/watch?v=4sZFkPw87ng) for guidance.  
-
+- Dataset sourced from [Kaggle](https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running/discussion/420633).
+  
 ### 2. Data Cleaning  
 - Renamed columns to improve readability.  
 - Filtered data to include only:  
