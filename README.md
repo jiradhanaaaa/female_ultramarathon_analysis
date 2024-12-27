@@ -47,7 +47,7 @@ The analysis focuses on identifying the most common age categories, the countrie
 ## Conclusions  
 - **Age Trends:** The majority of female participants in 50km races belonged to the 40-50 age group, with more than 35000 participants.
 ![image](https://github.com/user-attachments/assets/6e23c738-41b2-4b37-9b59-8fde13c320bb)
-- **Country Insights:** The USA had the largest number of participants, with notable contributions from Canada and the UK.
+- **Country Insights:** The USA had the largest number of participants, with notable contributions from Canada.
 ![image](https://github.com/user-attachments/assets/a8fdc888-a16e-441f-97be-64563050ace3)
 - **Visual Insights:**  
   - Violin plots revealed that younger categories, like W23, tend to have higher speeds, with their distributions leaning toward higher values (above 8 km/h).
